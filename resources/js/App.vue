@@ -1,5 +1,5 @@
 <template>
-    <h3>Conference Room Booker</h3>
+    <h3 class="text-3xl font-bold underline">Conference Room Booker</h3>
 </template>
 
 <script>
